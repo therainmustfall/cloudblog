@@ -14,7 +14,7 @@ The stars **\*** (asterisks) and commands on the header is the format of each cr
 
 | * | * | * | * | * |  Command |
 |----|----|----|----|----|----|
-|Minute<br>(0-59)|Hour<br>(0-23)|Day of the Month(1-31)|Month<br>(1-12)|Day of the week(0-6)|command to run|
+|Minute <br> (0-59)|Hour <br> (0-23)|Day of the Month(1-31)|Month <br> (1-12)|Day of the week(0-6)|command to run|
 
 
 ### Examples
