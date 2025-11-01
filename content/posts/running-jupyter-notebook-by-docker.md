@@ -4,8 +4,6 @@ draft = false
 title = 'Running Jupyter Notebook by Docker'
 +++
 
-## Run Jupyter in a container
-
 reference:
 
 * [Jupyter container guide](https://docs.docker.com/guides/jupyter/)

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.zhiyuan.one/'
 languageCode = 'en-us'
-title = 'Just another site'
+title = 'Site as a Starting Summary'
 theme = 'ananke'
