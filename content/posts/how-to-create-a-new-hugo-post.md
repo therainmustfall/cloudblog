@@ -29,3 +29,6 @@ After editing the markdown file we created above, remember to change the *draft:
 
 Finally, use the git command to commit and push the blog file to remote server.
 
+* Reference:
+ - [Host on Cloudflare](https://gohugo.io/host-and-deploy/host-on-cloudflare/)
+
