@@ -1,7 +1,7 @@
 +++
 date = '2025-11-01T10:45:04+08:00'
 draft = false
-title = 'Using Cron to Schedule a Linux_Machine'
+title = 'Using Cron to Schedule a Linux Machine'
 +++
 
 ## Cron: linux basic settings

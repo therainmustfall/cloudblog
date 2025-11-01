@@ -1,7 +1,7 @@
 +++
 date = '2025-11-01T11:46:05+08:00'
 draft = false
-title = 'Create a Windows Bootable Usb on Ubuntu'
+title = 'Create a Windows Bootable USB on Ubuntu'
 +++
 
 
