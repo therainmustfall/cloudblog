@@ -10,7 +10,7 @@ Cron is a time-based job scheduler. You can set some commands to be done at a ce
 
 ### Syntax
 
-The stars **\*** (asterisks) and commands on the header is the format of each cron task that you will create. It consists mainly of six parts, with the first five parts determine the job timing (reference [here](https://pimylifeup.com/cron-jobs-and-crontab/)).
+The stars **\*** (asterisks) and commands on the header row is the format of each cron task that you will create. It consists mainly of six parts, with the first five parts determine the job timing (reference [here](https://pimylifeup.com/cron-jobs-and-crontab/)).
 
 | * | * | * | * | * |  Command |
 |----|----|----|----|----|----|
