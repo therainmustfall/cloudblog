@@ -1,7 +1,7 @@
 +++
 date = '2025-11-16T17:37:28+08:00'
 draft = false
-title = 'Anaconda Set Proxy'
+title = 'Anaconda proxy setting'
 +++
 
 This is what recently has been searched several times. For future reference, it could be noted here.
