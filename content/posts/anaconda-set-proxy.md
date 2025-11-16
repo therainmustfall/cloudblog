@@ -12,7 +12,7 @@ conda config --set proxy_servers.http http://localhost:XXXXX
 conda ocnfig --set proxy_servers.https http://localhost:XXXXX
 ```
 
-**Other conda commands**
+**other basic conda commands**
 
 ```bash
 # creating new environment
